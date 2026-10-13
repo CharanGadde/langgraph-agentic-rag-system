@@ -25,7 +25,7 @@ The system utilizes a directed cyclic graph (DAG) with condition-based tool rout
 ## 🚀 How to Run
 
 1. Open `LangGraph_Agentic_AI_Workflow.ipynb` in Google Colab or Jupyter Notebook.
-2. Set your `GROQ_API_KEY` when prompted.
+2. This is my `GROQ_API_KEY` when prompted. (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) 
 3. Run all cells sequentially to execute the agent graph.
 
 ---
