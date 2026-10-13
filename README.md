@@ -17,7 +17,7 @@ The system utilizes a directed cyclic graph (DAG) with condition-based tool rout
 ## 🛠️ Tech Stack
 
 * **Orchestration**: LangGraph, LangChain Core
-* **LLM Engine**: Groq API (`openai/gpt-oss-120b`)
+* **LLM Engine**: Groq API (`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`)
 * **Environment**: Jupyter Notebook / Python 3.10+
 
 ---
